@@ -1,0 +1,1 @@
+# TypeScript_40_GeneralKnowledge_Question
